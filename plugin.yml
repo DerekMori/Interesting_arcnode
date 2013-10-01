@@ -1,0 +1,10 @@
+name: INteresting
+main: io.github.Nitralow.Interesting.Interesting
+version: 0.0.1
+descripition: >
+              Interesting Plug in
+commands:
+  heal:
+     description: heals a player
+  fart:
+     description: Set's FallDistence 12  
